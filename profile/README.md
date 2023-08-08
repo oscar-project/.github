@@ -12,6 +12,6 @@ Since 2019, The OSCAR Project has been funded by [Inria](https://www.inria.fr/en
 
 If you are interested in OSCAR and would like to access the corpus, send us a mail using our [mail address](mailto:contact@oscar-project.org), with "OSCAR Access Request" as mail title. Please include your name, last name, affiliation, contact details, which languages do you need and a brief description of how you intend to use OSCAR.
 
-Grab the latest OSCAR release [here](post/oscar-v22-01/)! :rocket:
+Grab the latest OSCAR release 23.01 [here](https://oscar-project.github.io/documentation/versions/oscar-2301/)! :rocket:
 
 Join our Discord community [here](https://discord.com/invite/4JNg9FTar4)! :speech_balloon:
